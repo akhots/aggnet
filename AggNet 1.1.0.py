@@ -1,5 +1,5 @@
 # Aggregation of networks. Written on Python 3.6
-print('AggNet 1.1.0  Developed by AKhotsyanovskiy\r\n')
+print('AggNet 1.1.0  Developed by Alex Khots\r\n')
 
 def fNetConv(a):
 	if a.count('/') == 0:
