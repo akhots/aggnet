@@ -1,2 +1,2 @@
 # AggNet
-Aggregating of networks/routes
+Aggregation of networks/routes
